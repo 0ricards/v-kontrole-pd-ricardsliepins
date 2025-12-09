@@ -1,0 +1,2 @@
+1. Git ir rīks kas palīdz ar versijas kontroli un atļauj vairākiem cilvēkiem strādāt uz projekta vienlaicīgi bez riska to salauzt/pazaudēd
+2. Versijas kontrole ir svarīga, jo ja ir izdarīta kļūda un projekts vairs nestrādā/izdzēsa ko nevajadzēja, tad var ātri piekļūt pie pēdējās strādājošās versijas
